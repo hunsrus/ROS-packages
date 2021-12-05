@@ -1,0 +1,7 @@
+<launch>
+    <param name="use_sim_time" value="true"/>
+    <node pkg="gmapping_test" type="gmapping_test" name="gmapping_test" output="screen">
+    <remap from="scan" to="base_scan"/>
+    </node>
+    <node pkg="tf" type="static_transform_publisher" name="link1_broadcaster" args="1 0 0 0 0 0 1 odom base_link 100" />
+</launch>
