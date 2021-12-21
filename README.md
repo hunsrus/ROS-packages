@@ -1,3 +1,4 @@
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robot_Operating_System_logo.svg/1200px-Robot_Operating_System_logo.svg.png" width="288px">
 # ROS-packages
 Some of my ROS packages developed
 # Robot Operating System (ROS)
