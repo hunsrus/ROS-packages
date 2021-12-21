@@ -9,7 +9,7 @@ language-independent and network-transparent communication for a
 distributed robot control system.
 
 # Guide and information
-There's a guide written in spanish about the concepts used in these packages and sections explaining each one.
+There's a [guide](https://github.com/hunsrus/ROS-packages/blob/main/Gu%C3%ADa%20(Espa%C3%B1ol).pdf) currently available in spanish about the concepts used in these packages and sections explaining each one.
 ## Table of contents
 - Packages
   - Structure
